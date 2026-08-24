@@ -1,0 +1,6 @@
+.DS_Store
+xcuserdata/
+*.xcuserstate
+
+# Personal signing config (holds the Apple Developer Team ID). Not committed.
+Local.xcconfig

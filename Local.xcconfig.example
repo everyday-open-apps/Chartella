@@ -1,0 +1,8 @@
+// Local.xcconfig.example — template. Copy to Local.xcconfig and fill in:
+//
+//   cp Local.xcconfig.example Local.xcconfig
+//
+// Set your Apple Developer Team ID — the 10-character identifier from
+// Xcode > Settings > Accounts, or developer.apple.com > Membership details.
+// Local.xcconfig is gitignored, so your Team ID stays out of the repository.
+DEVELOPMENT_TEAM = YOUR_TEAM_ID

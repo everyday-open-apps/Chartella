@@ -1,0 +1,12 @@
+// Signing.xcconfig — committed. Shared, non-secret signing configuration.
+//
+// Your Apple Developer Team ID is personal, so it is NOT stored here or in the
+// Xcode project. It lives in Local.xcconfig, which is gitignored. To build with
+// signing, copy the template and fill in your team:
+//
+//   cp Local.xcconfig.example Local.xcconfig
+//
+// The include below is optional (note the "?"): if Local.xcconfig is missing it
+// is silently skipped, so the project still opens on a fresh clone — Xcode will
+// just ask you to pick a signing team.
+#include? "Local.xcconfig"
